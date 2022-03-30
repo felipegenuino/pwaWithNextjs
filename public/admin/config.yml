@@ -4,7 +4,7 @@ backend:
   branch: prodution
   base_url: https://pwa.felipegenuino.com/
   auth_endpoint: api/auth
-local_backend: true
+# local_backend: true
 media_folder: "cms/static/images/uploads"
 public_folder: "public/images/uploads"
 collections:
