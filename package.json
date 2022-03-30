@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "backend": "npx http-serve"
   },
   "dependencies": {
     "netlify-cms-app": "^2.15.70",
