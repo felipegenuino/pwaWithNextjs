@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "netlify-cms-app": "^2.15.70",
     "next": "12.1.2",
     "next-pwa": "^5.4.6",
     "react": "18.0.0",
