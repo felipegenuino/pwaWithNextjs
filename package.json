@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "backend": "npx http-serve"
+    "backend": "npx http-serve",
+    "export": "next export"
   },
   "dependencies": {
     "netlify-cms-app": "^2.15.70",
