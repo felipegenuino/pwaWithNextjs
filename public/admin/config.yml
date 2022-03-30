@@ -2,7 +2,7 @@ backend:
   name: github
   repo: felipegenuino/pwaWithNextjs
   branch: prodution
-  base_url: https://pwa.felipegenuino.com/
+  base_url: https://pwa-felipegenuino.netlify.app/
   auth_endpoint: api/auth
 # local_backend: true
 media_folder: "cms/static/images/uploads"
